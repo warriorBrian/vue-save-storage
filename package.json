@@ -1,0 +1,24 @@
+{
+  "name": "vue-save-stroage",
+  "version": "1.0.0",
+  "description": "stroage packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/warriorBrian/vue-save-stroage.git"
+  },
+  "keywords": [
+    "localStorage",
+    "sessionStorage",
+    "stroage"
+  ],
+  "author": "Brian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/warriorBrian/vue-save-stroage/issues"
+  },
+  "homepage": "https://github.com/warriorBrian/vue-save-stroage#readme"
+}
