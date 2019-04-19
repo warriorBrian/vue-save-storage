@@ -1,6 +1,6 @@
 {
-  "name": "vue-save-stroage",
-  "version": "1.0.0",
+  "name": "vue-save-storage",
+  "version": "1.0.1",
   "description": "stroage packages",
   "main": "index.js",
   "scripts": {
